@@ -1,6 +1,6 @@
 ## 👨‍💻 software developer by day, virtual adventurer by night 🎮
 
-i'm a software developer 👨‍💻 specialised in backend development.
+i'm a software developer 👨‍💻 specialised in backend development.\
 in my free time, i enjoy playing video 🎮 games and reading 📖
 
 <!--

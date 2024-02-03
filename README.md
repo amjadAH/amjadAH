@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+i'm a software developer specialised in backend development.
+in my free time, i enjoy playing video games and reading.
+
 <!--
 **amjad-ah/amjad-ah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

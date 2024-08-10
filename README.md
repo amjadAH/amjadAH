@@ -3,6 +3,8 @@
 i'm a software developer 👨‍💻 specialised in backend development.\
 in my free time, i enjoy playing video 🎮 games and reading 📖
 
+<a href="https://app.daily.dev/amjad_"><img src="https://api.daily.dev/devcards/v2/zyv7z6K09uANeUzfq8zGf.png?type=wide&r=q9x" width="652" alt="Amjad's Dev Card"/></a>
+
 <!--
 **amjad-ah/amjad-ah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
